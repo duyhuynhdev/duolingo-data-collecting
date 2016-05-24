@@ -17,3 +17,4 @@ Common/src/main/java/com/buzzhives/common/Me.java
 *-sources.jar
 GisBuilder/src/com/buzzhives/GisBuilder/BisectHelper.java
 target
+.idea/
