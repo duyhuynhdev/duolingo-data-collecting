@@ -1,4 +1,4 @@
-# DuolingoDataCrawler 
+# duolingo-data-collecting 
 
 This project is the a crawler for getting data of a specific Duolingo Language Course. It is a crawler toll used for a research which using Java and Selenium. 
 
